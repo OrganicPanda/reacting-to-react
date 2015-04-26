@@ -1,4 +1,1 @@
-[
-  {"author": "Foo Hunt", "text": "This is one comment"},
-  {"author": "Jordan Walke", "text": "This is *another* comment"}
-]
+[{"author":"Foo Hunt","text":"This is one comment"},{"author":"Jordan Walke","text":"This is *another* comment"},{"author":"Steve","text":"It works!","id":"d2d67c1b-61c1-4602-b2e3-01719135c272"}]
